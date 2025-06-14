@@ -7,10 +7,10 @@
 }
 
 html {
-  background: $white;
+  background: #2C3247; // Changed to new background color
 }
 
-body{
+body {
   @include serif;
   color: $text_color;
   font-size: 16px;
